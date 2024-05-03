@@ -7,4 +7,4 @@ I don't know, right now, what to do with stragetic-part (Base managment) of game
 
 After polishing main gameplay, I want to create weapon system (stats and visual upgrade), class system, character system, rank-upgrade system.
 
-P.S. All copyright materials will be deleted over time
+P.S. All copyright materials will be delete over time
